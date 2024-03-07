@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "de.gigadroid.flutterudid.flutter_udid-merged_res-10:/layout-v21/notification_action.xml",
+        "source": "de.gigadroid.flutterudid.flutter_udid-core-1.6.0-2:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "de.gigadroid.flutterudid.flutter_udid-merged_res-10:/layout-v21/notification_template_custom_big.xml",
+        "source": "de.gigadroid.flutterudid.flutter_udid-core-1.6.0-2:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "de.gigadroid.flutterudid.flutter_udid-merged_res-10:/layout-v21/notification_template_icon_group.xml",
+        "source": "de.gigadroid.flutterudid.flutter_udid-core-1.6.0-2:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "de.gigadroid.flutterudid.flutter_udid-merged_res-10:/layout-v21/notification_action_tombstone.xml",
+        "source": "de.gigadroid.flutterudid.flutter_udid-core-1.6.0-2:/layout-v21/notification_action_tombstone.xml"
+    }
+]

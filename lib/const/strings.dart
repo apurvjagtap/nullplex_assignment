@@ -1,0 +1,13 @@
+const signIn = "Sign In";
+const signUp = "Sign Up";
+const dontHaveAnAccount = "Don't have an account?";
+const alreadyHaveAnAccount = "Already have an account?";
+const welcome = "Welcome!";
+const letsSignIn = "Let's sign in to begin...";
+const letsSignUp = "Let's sign up to begin...";
+const fullName = "Full Name";
+const mobileNo = "Mobile No";
+const password = "Password";
+const forgetPassword = "Forgot Password?";
+const continueToSignIn = "Continue to Sign In";
+const continueToSignUp = "Continue to Sign Up";
