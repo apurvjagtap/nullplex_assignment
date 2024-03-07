@@ -8,18 +8,14 @@ class Apis {
     final String url = 'http://restsf.nullplex.co.in/api/register';
 
     try {
-      // Create a Map with the data you want to send in the request body
       Map<String, dynamic> requestData = {
         'name': name,
         'mobile': phoneNumber,
         'password': password,
         'password_confirmation': password,
         'deviceid': id,
-
-        // Add other key-value pairs as needed
       };
 
-      // Convert the data to JSON format
       String requestBody = jsonEncode(requestData);
 
       final http.Response response = await http.post(
@@ -41,15 +37,12 @@ class Apis {
     final String url = 'http://restsf.nullplex.co.in/api/login';
 
     try {
-      // Create a Map with the data you want to send in the request body
       Map<String, dynamic> requestData = {
         'mobile': phone,
         'password': password,
         'deviceid': id,
-        // Add other key-value pairs as needed
       };
 
-      // Convert the data to JSON format
       String requestBody = jsonEncode(requestData);
 
       final http.Response response = await http.post(
